@@ -3,7 +3,7 @@
 
 ## Full Stack Developer
 
-I am a Full Stack Developer with over [number of years] years of experience in developing and designing web and mobile applications. I have extensive experience in various front-end and back-end technologies, and I excel at delivering comprehensive and innovative technical solutions. I am detail-oriented and possess strong problem-solving skills, ensuring efficient software development.
+I am a Full Stack Developer with over [6] years of experience in developing and designing web and mobile applications. I have extensive experience in various front-end and back-end technologies, and I excel at delivering comprehensive and innovative technical solutions. I am detail-oriented and possess strong problem-solving skills, ensuring efficient software development.
 
 ---
 
