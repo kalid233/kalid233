@@ -24,13 +24,7 @@ I am a Full Stack Developer with over [6] years of experience in developing and 
 ---
 
 
-### Contact Information
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-
----
 
 Thank you for taking the time to view my profile. I am passionate about technology and always eager to learn and grow. Let's connect and collaborate on exciting projects!
 
